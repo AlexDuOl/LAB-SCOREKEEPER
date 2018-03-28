@@ -22,3 +22,5 @@ Escribe una función que toma dos argumentos, el nombre de tu amiga y la cantida
 ### Diagráma de flujo
 
 khkfkdjgklajgkjfgljfgjalgj
+
+![Diagrama de flujo](D:LABORATORIA/SCOREKEEPER/Assets/diagramadeflujo.png)
